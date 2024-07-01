@@ -16,5 +16,6 @@ def Agente_aereo(num_agente ):
     json_result = df_agente.to_json(orient='records')
 
     # print(json_result)
+    # print(json_result)
     return json_result
 
